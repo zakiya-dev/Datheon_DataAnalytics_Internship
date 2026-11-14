@@ -41,7 +41,7 @@ Open Task1_Superstore_EDA.ipynb in Jupyter or VS Code. Place superstore_sales.cs
 
 Task 2: Power BI Executive Sales & Profit Dashboard
 
-In progress. A multi-page interactive dashboard built on the cleaned Superstore data, with:
+Completed. A multi-page interactive dashboard built on the cleaned Superstore data, with:
 
 A star schema (Fact_Orders, Dim_Customer, Dim_Product, Dim_Date)
 DAX measures for Total Sales, Total Profit, Profit Margin % and YoY Sales Growth %
